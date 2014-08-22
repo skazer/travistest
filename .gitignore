@@ -1,0 +1,5 @@
+.DS_Store
+.travis.yml
+Gruntfile.js
+/node_modules
+package.json
