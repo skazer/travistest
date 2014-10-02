@@ -7,3 +7,4 @@
 
 
 
+[ ![Codeship Status for skazer/travistest](https://codeship.io/projects/0ca2e800-2c00-0132-e8dc-32dfabfc244a/status)](https://codeship.io/projects/38727)
