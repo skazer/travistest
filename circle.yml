@@ -2,5 +2,5 @@ deployment:
   production:
     branch: master
     commands:
-      - aws version
+      - aws --version
       - aws --region us-east-1 opsworks create-deployment stack-id 12f5a246-8338-4c07-babc-4fc2bd93c161 app-id b934e902-5f16-4fc8-8a6f-bcd6132fb4fa command "{\"Name\":\"deploy\"}"
