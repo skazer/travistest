@@ -4,6 +4,8 @@
 
 ![Build Status](https://circleci.com/gh/skazer/travistest.svg?style=shield&circle-token=:circle-token)
 
+[![Circle CI](https://circleci.com/gh/kurashicom/replenish.svg?style=shield)](https://circleci.com/gh/kurashicom/replenish)
+
 ---
 
 
